@@ -1,3 +1,3 @@
 # SpringBoot
-Latihan membuat website menggunakan SpringBoot dan Maven
+Latihan membuat website menggunakan SpringBoot
 ayo belajar
