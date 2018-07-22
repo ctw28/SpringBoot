@@ -1,3 +1,3 @@
 # SpringBoot
 Latihan membuat website menggunakan SpringBoot
-ayo belajar
+latihan ini menggunakan build tools maven
